@@ -250,6 +250,10 @@ input[type="submit"] {
 	padding: .5em 1em
 }
 
+.text-center {
+	text-align: center;
+}
+
 @media all and (max-width: 1440px) {
 	.picture {
 		flex : 2;
